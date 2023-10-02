@@ -1,3 +1,7 @@
+## 0.6.18
+
+* Adds support for `footnote`.
+
 ## 0.6.17+4
 
 * Fixes an incorrect behavior of code block decoration.
