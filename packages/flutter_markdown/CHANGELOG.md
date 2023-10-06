@@ -4,7 +4,7 @@
 
 ## 0.6.17+4
 
-* Fixes an incorrect behavior of code block decoration.
+* Fixes an issue where a code block would overlap its container decoration.
 
 ## 0.6.17+3
 
